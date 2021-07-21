@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/arrays/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/circulatLL/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/doubleLL/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/hashing/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/linkedList/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/matrix/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/recursion/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/searching/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/sorting/cmake-build-debug" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
